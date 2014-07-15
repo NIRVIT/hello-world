@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-my first repo over github
+my first repo
